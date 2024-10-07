@@ -3,9 +3,11 @@
 A To Do App but with a profile section. You can change your profile as you wish. I plan to add a theme button as well, so you could select  your color scheme.
 
 <p align="center">
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/ninja_id_project/blob/master/screenshot_4.png?raw=true" alt="Image 1" width="250", style="margin-right">
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/ninja_id_project/blob/master/screenshot_5.png?raw=true" alt="Image 2" width="250", style="margin-left">
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/ninja_id_project/blob/master/screenshot_6.png?raw=true" alt="Image 3" width="250", style="margin-left">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/ToDo-App/blob/master/assets/default%20screen.png?raw=true" alt="Default Screen" width="200", style="margin-right">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/ToDo-App/blob/master/assets/Delete%20function.png?raw=true" alt="Delete Slider" width="200", style="margin-left">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/ToDo-App/blob/master/assets/input%20task.png?raw=true" alt="Input Task" width="200", style="margin-left">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/ToDo-App/blob/master/assets/drawer%20section.png?raw=true" alt="Input Task" width="200", style="margin-left">
+  
 </p>
 
 
